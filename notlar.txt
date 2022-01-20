@@ -1,0 +1,5 @@
+git remote add origin https://github.com/artolex/git-vscode.git
+git branch -M main
+git push -u origin main
+
+Yukarda mevcut repoyu pushlamak için örnek var. Repo adı değişmesi gerekiyor.
